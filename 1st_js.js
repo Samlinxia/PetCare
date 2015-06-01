@@ -1,1 +1,2 @@
 var step = '';
+var path = [];
